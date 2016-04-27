@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # Copyright (C) 2014 Lachie Grant <https://github.com/lachgra>
 
 # This program is free software: you can redistribute it and/or modify
